@@ -20,3 +20,5 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Instalador de 64 bit para windows
+[https://drive.google.com/file/d/19_ndEv5U2T8XwqCjQVqN_VrNSIngAxVB/view?usp=sharing](backrem versión 1.2.0)
